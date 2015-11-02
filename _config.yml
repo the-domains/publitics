@@ -1,0 +1,23 @@
+name: Publitics
+favicon: null
+layout_spectrum: 0.5993793203961104
+typography_spectrum: 0.9474816336296499
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.21749756741337478
+  lightness: 0.7131969819311053
+  saturation: 0.6481235895771533
+  rhythmicContrast: 0.0449757797177881
+purpose: []
